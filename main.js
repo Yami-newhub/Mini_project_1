@@ -7,6 +7,7 @@ if(company > 0){
   alert('1');
 }else if(company < 0){
   alert('-1');
-}else (company == 0)
-  alert('0');  
+}else if(company == 0){
+  alert('0');
+}  
 ```
